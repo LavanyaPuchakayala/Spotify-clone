@@ -1,0 +1,32 @@
+# Spotify Webpage Clone
+
+## Overview
+This project is a Spotify-inspired webpage developed using only HTML5 and CSS3. It recreates the layout and design of the Spotify website to practice front-end web development and responsive web design.
+
+## Features
+- Responsive webpage layout
+- Navigation bar
+- Hero section
+- Music cards and playlists
+- Footer section
+- Modern UI using HTML and CSS
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Project Structure
+```
+spotify-clone/
+│── index.html
+│── spotify.css
+│── images/
+│── README.md
+```
+
+## How to Run
+1. Download or clone the repository.
+2. Open `index.html` in any web browser.
+
+## Author
+Lavanya Puchakayala
